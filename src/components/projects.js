@@ -32,10 +32,10 @@ export default class Projects extends Component {
 							<div className="project" style={{backgroundImage: 'url(images/work-2.jpeg)'}}>
 								<div className="desc">
 									<div className="con">
-										<h3><a href="https://protected-badlands-02538.herokuapp.com/" target="_blank" rel="noopener noreferrer">YelpCamp</a></h3>
-										<span>Website</span>
+										<h3><a href="https://www.linkedin.com/posts/siranjeevi-s-70229220b_project-report-activity-6827559157743415296-QYNK" target="_blank" rel="noopener noreferrer">Ai Product Prototyping</a></h3>
+										<span>Document</span>
 										<p className="icon">
-											<span><a href="https://github.com/JaysonCheng/YelpCampApp" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
+											<span><a href="https://www.linkedin.com/posts/siranjeevi-s-70229220b_project-report-activity-6827559157743415296-QYNK" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
 											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
 											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
@@ -47,10 +47,10 @@ export default class Projects extends Component {
 							<div className="project" style={{backgroundImage: 'url(images/work-3.jpeg)'}}>
 								<div className="desc">
 									<div className="con">
-										<h3><a href="https://github.com/JaysonCheng/HeyMyTA-Cornhacks2020" target="_blank" rel="noopener noreferrer">HeyMyTA</a></h3>
-										<span>Website</span>
+										<h3><a href="https://www.linkedin.com/posts/siranjeevi-s-70229220b_market-segmentation-on-electric-vehicle-activity-6854710967104888832-swli" target="_blank" rel="noopener noreferrer">Market Segmentation</a></h3>
+										<span>Document</span>
 										<p className="icon">
-											<span><a href="https://github.com/JaysonCheng/HeyMyTA-Cornhacks2020" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
+											<span><a href="https://www.linkedin.com/posts/siranjeevi-s-70229220b_market-segmentation-on-electric-vehicle-activity-6854710967104888832-swli" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
 											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
 											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
@@ -62,10 +62,10 @@ export default class Projects extends Component {
 							<div className="project" style={{backgroundImage: 'url(images/work-4.jpeg)'}}>
 								<div className="desc">
 									<div className="con">
-										<h3><a href="https://git.unl.edu/csce_361/summer2020/36team4" target="_blank" rel="noopener noreferrer">Electronic Voting System</a></h3>
-										<span>JavaFX Application</span>
+										<h3><a href="https://github.com/siranjeevi21/chatbot" target="_blank" rel="noopener noreferrer">Chatbot</a></h3>
+										<span>GitHub Repository</span>
 										<p className="icon">
-											<span><a href="https://git.unl.edu/csce_361/summer2020/36team4" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
+											<span><a href="https://github.com/siranjeevi21/chatbot" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
 											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
 											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
