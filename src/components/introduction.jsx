@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1 style={{color: 'white'}}>Future<br /> SOFTWARE ENGINEER </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/JaysonCheng?tab=repositories" target="_blank" rel="noopener noreferrer" style={{color: 'white', border: '2px solid white'}}>View Projects <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/siranjeevi21?tab=repositories" target="_blank" rel="noopener noreferrer" style={{color: 'white', border: '2px solid white'}}>View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>
