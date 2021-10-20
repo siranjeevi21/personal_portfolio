@@ -73,36 +73,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-							<div className="project" style={{backgroundImage: 'url(images/work-5.jpeg)'}}>
-								<div className="desc">
-									<div className="con">
-										<h3><a href="https://github.com/JaysonCheng/ToDoList" target="_blank" rel="noopener noreferrer">To Do List</a></h3>
-										<span>Website</span>
-										<p className="icon">
-											<span><a href="https://github.com/JaysonCheng/ToDoList" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
-											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
-										</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-							<div className="project" style={{backgroundImage: 'url(images/work-6.jpeg)'}}>
-								<div className="desc">
-									<div className="con">
-										<h3><a href="https://github.com/JaysonCheng/ColorGuessingGame" target="_blank" rel="noopener noreferrer">Color Guessing Game</a></h3>
-										<span>Website</span>
-										<p className="icon">
-											<span><a href="https://github.com/JaysonCheng/ColorGuessingGame" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
-											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
-										</p>
-									</div>
-								</div>
-							</div>
-						</div>
+						
 					</div>
 					{/* <div className="row">
 						<div className="col-md-12 animate-box">
