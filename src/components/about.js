@@ -75,12 +75,11 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development</h3>
+                    <h3>Machine Learning</h3>
                     <p>
-                        I fell in love with developing cool websites with amazing UI/UX in Node.js environment.
-                        I have experiences in developing using frameworks such as Express.js, React and Bootstrap.
-                        My internship experiences have sparked my interest in Cloud Computing technologies and my next goal is to
-                        develop a personal project in cloud environment.
+                        I fell in love with developing Machine-Learing model.
+                        I have experiences in developing using libraries such as Tensorflow, Numpy, Pandas, Scikit-Learns, Matplotlib, Streamlit.
+                        My internship experiences have sparked my interest in creating real world applications using Machine-Learning.
                     </p>
                 </div>
                 </div>
@@ -94,27 +93,11 @@ export default class About extends Component {
                     <h3>Software Development</h3>
                     <p>
                         Solving real world problems has always been an interest of mine. I love developing softwares that could contribute
-                        to the community. I have been developing object-oriented softwares in agile environment 
-                        with a test-driven development approach in different programming languages, such as Java, C++, C# and Python.
+                        to the community. I am aspired to learn Software development which would change the life of us.
                     </p>
                 </div>
                 </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Hardware Development</h3>
-                    <p>
-                        As a senior from Computer Engineering background, I have hands-on experiences in building 
-                        embedded systems in Arduino and C environment. I have gained valuable knowledge from my Electrical Engineering courses in 
-                        circuits analysis which allows me to design complex electronic circuits with VHDL and develop in assembly language.
-                    </p>
-                </div>
-                </div>
-            </div>
+            
             </div>
         </div>
         </section>
