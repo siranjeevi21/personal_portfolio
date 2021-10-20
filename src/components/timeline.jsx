@@ -21,15 +21,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>IT Software Engineer Intern at Nelnet Bank <span>May 2020 - present</span></h2>
+                        <h2>Machine Learning Intern <span>July 2021 - Sep 2021</span></h2>
                         <p>
-                          I collaborated with a team of 3 senior full stack software engineers in building MVP prototypes for future products and integration in Node.js environment.
-                          I assisted the development team in writing and documenting integrations with external services, including security vendors and APIs. 
-                          From this internship, I gained experiences in developing the software components for our products in agile environment by utilizing a test driven approach.
-                          I got opportunities in writing unit, end-to-end, and flow tests for API endpoints testing by using Jest, and learned to automate end-to-end testing on 
-                          frontend by using TestCafe. Under their mentorship, I had learned to conduct and participate in code review to ensure high quality standards of code delivery. 
-                          This internship had helped me in discovering and learning a lot of awesome and the most modern technology stack, such as Terraform and AWS which had sparked my interest in
-                          cloud computing technologies and infrastructure.
+                          I collaborated with a team of 3 members in building Market Segmentation using Machine Learning and DataAnalysis for ElectricVehicles Startup.AI product/service prototyping on Healthcare. AI product/service prototyping on Healthcare.
                         </p>
                       </div>
                     </div>
@@ -40,14 +34,10 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Developer at INFEWS UNL<span>March 2020 - May 2020</span></h2>
+                        <h2>Grroom<span>July 2021 - Sep 2021</span></h2>
                         <p>
-                          I worked in a research team as a software developer / game developer in developing an educational 2D game for the purpose of educating people
-                          to better control the red cedar invasion which will detriment the state's ecosystem services in the future by using Unity machine. I 
-                          assited the team in implementing C# scripting by utilizing object-oriented programming knowledge in developing the game features and objects for the UI. 
-                          Our team practiced Kanban agile methodology by using GitLab to manage and collaboratively track the flow of work. It was unfortunate that I was 
-                          not able to stay with the team until the launch for the first version of our game due to my summer internship offer, but it had been an amazing experience
-                          with the team in developing interesting games.
+                          Tested Machine-Learning mode accuracy of tiny-yolo model which boosted the downloads around 100+ on Google Play Store.Annotated over 3000 images for training on yolo-model.Labelled over 4000 images for training on yolo-model. Builded the logic for converting image types.
+
                         </p>
                       </div>
                     </div>
