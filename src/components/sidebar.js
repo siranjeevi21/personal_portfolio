@@ -9,8 +9,8 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/headshot.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Jayson Cheng</a></h1>
-              <span className="email"><i className="icon-mail"></i> jinsengcheng@gmail.com</span>
+              <h1 id="colorlib-logo"><a href="index.html">Siranjeevi</a></h1>
+              <span className="email"><i className="icon-mail"></i> jis1toget@gmail.com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -25,11 +25,10 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.linkedin.com/in/jin-seng-jayson-cheng-2339bb192/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
-                <li><a href="https://github.com/JaysonCheng?tab=repositories" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
+                <li><a href="linkedin.com/in/siranjeevi-s-70229220b/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
+                <li><a href="https://github.com/siranjeevi21?tab=repositories" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a></li>
                 {/* <li><a href="https://bitbucket.org/%7B73dfa65c-0c9f-42ca-984b-b85cd03cd0df%7D/" target="_blank" rel="noopener noreferrer"><i className="fa fa-bitbucket"></i></a></li> */}
-                <li><a href="https://www.facebook.com/jinseng.cheng" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook"></i></a></li>
-                <li><a href="https://www.instagram.com/jinsengcheng/" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a></li>
+                <li><a href="https://www.instagram.com/jeevi_1900//" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
