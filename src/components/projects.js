@@ -62,10 +62,10 @@ export default class Projects extends Component {
 							<div className="project" style={{backgroundImage: 'url(images/work-4.jpeg)'}}>
 								<div className="desc">
 									<div className="con">
-										<h3><a href="https://github.com/siranjeevi21/chatbot" target="_blank" rel="noopener noreferrer">Chatbot</a></h3>
+										<h3><a href="https://github.com/siranjeevi21/chatbot/blob/main/chatbot.py" target="_blank" rel="noopener noreferrer">Chatbot</a></h3>
 										<span>GitHub Repository</span>
 										<p className="icon">
-											<span><a href="https://github.com/siranjeevi21/chatbot" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
+											<span><a href="https://github.com/siranjeevi21/chatbot/blob/main/chatbot.py" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
 											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
 											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
