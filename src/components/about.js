@@ -24,8 +24,8 @@ export default class About extends Component {
                     </p>
                     <p></p>
                     <p>
-                    The moment I got exposed to web development, I have aspired to be a software engineer in the future. I 
-                    enjoy developing websites and recently got into API development and Cloud Computing technologies. I 
+                    The moment I got exposed to Machine Learning and Software Development, I have aspired to be a software engineer in the future. I 
+                    enjoy developing backend applications/ Machine learing models. I 
                     am so fortunate to gain some real-life experience from working in an agile development with a team of 
                     knowledgeable senior engineers. Their mentorship and valuable tips have helped me to improve my 
                     technical skills drastically. These past few years of experiences have molded me into a detailed-
@@ -35,22 +35,19 @@ export default class About extends Component {
                     <p></p>
                     <p>
                     "Jarvis" in Iron Man has expanded my vision on the world of technologies which eventually stir up my 
-                    curiosity in Artificial Intelligence. I have chosen Computer Engineering as my major so that the skills and 
-                    knowledge I learned from my courses will complement this process. I have dreamt of building my own AI 
+                    curiosity in Artificial Intelligence. I have done bachelor degree in Pharmacy. I have dreamt of building my own AI 
                     machine in the future which could make a huge impact to the society.
                     </p>
                     <p></p>
                     <p>
-                    I am currently looking for summer internship opportunities for 2021 to keep honing my technical skills 
+                    I am currently looking for internship opportunities for 2022 to keep honing my technical skills 
                     and get exposed to solving more real-world problems. Please feel free to drop me a DM or send me an 
                     email if you want to know more about me!
                     </p>
                     <p></p>
-                    <p>Programming Languages: Java, C++, C, Javascript, HTML, CSS, Familiar with Python and Ruby</p>
-                    <p>Platform: Node.js, Unity </p>
-                    <p>Database: MongoDB, MySQL</p>
-                    <p>Frameworks: Express.js, React, Bootstap, Jest, TestCafe, JavaFX, JUnit, JPA</p>
-                    <p>Tools: Git, Terraform, Jira, Confluence, VS Code IDE, IntelliJ IDE, Familiar with AWS</p>
+                    <p>Programming Languages: Python3</p>
+                    <p>Libraries:  Tensorflow, Scikit-Learn, Matplotlib, Numpy, Pandas, Streamlit</p>
+                    <p>Tools: Anaconda, Sublime-Text, Pycharm, Google-Collab</p>
                     <p style={{fontWeight: "bold", color: "#80c0f7", textAlign: "center", fontSize: "1.6rem", fontStyle: "italic"}}> 
                         "Success is no accident. It is hard work, perseverance,
                         learning, studying, sacrifice and most of all, love of what you
