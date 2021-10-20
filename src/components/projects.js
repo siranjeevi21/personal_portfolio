@@ -17,10 +17,10 @@ export default class Projects extends Component {
 							<div className="project" style={{backgroundImage: 'url(images/work-1.jpeg)'}}>
 								<div className="desc">
 									<div className="con">
-										<h3><a href="https://github.com/JaysonCheng/Secondhand" target="_blank" rel="noopener noreferrer">SecondHand</a></h3>
-										<span>Website</span>
+										<h3><a href="https://aideephealth.com/" target="_blank" rel="noopener noreferrer">AiDeepHealth</a></h3>
+										<span>Human Centered HealthCare AI</span>
 										<p className="icon">
-											<span><a href="https://github.com/JaysonCheng/Secondhand" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
+											<span><a href="https://aideephealth.com/" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
 											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
 											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
