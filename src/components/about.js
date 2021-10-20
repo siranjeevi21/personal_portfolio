@@ -78,7 +78,7 @@ export default class About extends Component {
                     <h3>Machine Learning</h3>
                     <p>
                         I fell in love with developing Machine-Learing model.
-                        I have experiences in developing using libraries such as Tensorflow, Numpy, Pandas, Scikit-Learns, Matplotlib, Streamlit.
+                        I have experiences in developing using libraries such as Tensorflow, Numpy, Pandas, Scikit-Learn, Matplotlib, Streamlit.
                         My internship experiences have sparked my interest in creating real world applications using Machine-Learning.
                     </p>
                 </div>
