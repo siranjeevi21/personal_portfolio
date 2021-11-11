@@ -40,7 +40,7 @@ export default class About extends Component {
                     </p>
                     <p></p>
                     <p>
-                    I am currently looking for internship opportunities for 2022 to keep honing my technical skills 
+                    I am currently looking for Job opportunities for 2022 to keep honing my technical skills 
                     and get exposed to solving more real-world problems. Please feel free to drop me a DM or send me an 
                     email if you want to know more about me!
                     </p>
