@@ -26,6 +26,19 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						</div> */}
+                        <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+							<div className="project" style={{backgroundImage: 'url(images/work-2.jpeg)'}}>
+								<div className="desc">
+									<div className="con">
+										<h3><a href="https://github.com/siranjeevi21/library" target="_blank" rel="noopener noreferrer">Library Management Sytem</a></h3>
+										<span>Document</span>
+										<p className="icon">
+											<span><a href="https://github.com/siranjeevi21/library" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 							<div className="project" style={{backgroundImage: 'url(images/work-2.jpeg)'}}>
 								<div className="desc">
