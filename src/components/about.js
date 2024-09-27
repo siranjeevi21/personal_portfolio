@@ -64,7 +64,7 @@ export default class About extends Component {
                 <h2 className="colorlib-heading">Here are some of my expertise</h2>
             </div>
             </div>
-            <div className="row row-pt-md">
+            // <div className="row row-pt-md">
             // <div className="col-md-4 text-center animate-box">
             //     <div className="services color-1">
             //     <span className="icon">
