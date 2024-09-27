@@ -13,7 +13,7 @@ export default class Projects extends Component {
 						</div>
 					</div>
 					<div className="row">
-						<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+						{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 							<div className="project" style={{backgroundImage: 'url(images/work-1.jpeg)'}}>
 								<div className="desc">
 									<div className="con">
@@ -21,13 +21,11 @@ export default class Projects extends Component {
 										<span>Human Centered HealthCare AI</span>
 										<p className="icon">
 											<span><a href="https://aideephealth.com/" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
-											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> */}
 						<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
 							<div className="project" style={{backgroundImage: 'url(images/work-2.jpeg)'}}>
 								<div className="desc">
@@ -36,8 +34,6 @@ export default class Projects extends Component {
 										<span>Document</span>
 										<p className="icon">
 											<span><a href="https://www.linkedin.com/posts/siranjeevi-s-70229220b_project-report-activity-6827559157743415296-QYNK" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
-											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
 									</div>
 								</div>
@@ -51,8 +47,6 @@ export default class Projects extends Component {
 										<span>Document</span>
 										<p className="icon">
 											<span><a href="https://www.linkedin.com/posts/siranjeevi-s-70229220b_market-segmentation-on-electric-vehicle-activity-6854710967104888832-swli" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
-											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
 									</div>
 								</div>
@@ -66,20 +60,12 @@ export default class Projects extends Component {
 										<span>GitHub Repository</span>
 										<p className="icon">
 											<span><a href="https://github.com/siranjeevi21/chatbot/blob/main/chatbot.py" target="_blank" rel="noopener noreferrer"><i className="icon-social-github" /></a></span>
-											{/* <span><a href="#"><i className="icon-eye" /> 100</a></span>
-											<span><a href="#"><i className="icon-heart" /> 49</a></span> */}
 										</p>
 									</div>
 								</div>
 							</div>
 						</div>
-						
 					</div>
-					{/* <div className="row">
-						<div className="col-md-12 animate-box">
-							<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
-						</div>
-					</div> */}
 				</div>
 			</section>
       </div>
