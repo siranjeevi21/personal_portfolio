@@ -24,30 +24,26 @@ export default class About extends Component {
                     </p>
                     <p></p>
                     <p>
-                    The moment I got exposed to Machine Learning and Software Development, I have aspired to be a software engineer in the future. I 
-                    enjoy developing backend applications/ Machine learing models. I 
-                    am so fortunate to gain some real-life experience from working in an agile development with a team of 
-                    knowledgeable senior engineers. Their mentorship and valuable tips have helped me to improve my 
-                    technical skills drastically. These past few years of experiences have molded me into a detailed-
-                    oriented, responsible and committed future engineer with a "get it done" mentality who always ensure 
-                    high quality production and code delivery.
+                    where I now innovate as a Junior Software developer at Enkindle Technologies. 
+                    My role involves creating robust web applications, incorporating React, Python, and AWS services, which aligns with
+                    my inclination towards functional programming and building scalable solutions.
                     </p>
                     <p></p>
                     <p>
-                    "Jarvis" in Iron Man has expanded my vision on the world of technologies which eventually stir up my 
-                    curiosity in Artificial Intelligence. I have done bachelor degree in Pharmacy. I have dreamt of building my own AI 
-                    machine in the future which could make a huge impact to the society.
+                    Transitioning from healthcare to technology, 
+                    I've applied analytical skills and a meticulous approach to my work in software development. The shift from a background as a 
+                    pharmacist to a tech professional demonstrates adaptability and a continuous pursuit of growth, with a commitment to enhance 
+                    my contributions in the tech space.
                     </p>
                     <p></p>
                     <p>
-                    I am currently looking for Job opportunities for 2022 to keep honing my technical skills 
+                    I am currently looking for Job opportunities for 2024 to keep honing my technical skills 
                     and get exposed to solving more real-world problems. Please feel free to drop me a DM or send me an 
                     email if you want to know more about me!
                     </p>
                     <p></p>
-                    <p>Programming Languages: Python3</p>
-                    <p>Libraries:  Tensorflow, Scikit-Learn, Matplotlib, Numpy, Pandas, Streamlit</p>
-                    <p>Tools: Anaconda, Sublime-Text, Pycharm, Google-Collab</p>
+                    <p>Skills: React, JavaScript, Python, Java; SQL, HTML, CSS, Material UI, JSON, XML, GIT, AWS Services, Algorithms, Data Structures, Report Design(BIRT), RESTful API</p>
+                    <p>Tools: Visual Studio, Pycharm, Jupyter Notebook, PG Admin, Eclipse, Sublime Text</p>
                     <p style={{fontWeight: "bold", color: "#80c0f7", textAlign: "center", fontSize: "1.6rem", fontStyle: "italic"}}> 
                         "Success is no accident. It is hard work, perseverance,
                         learning, studying, sacrifice and most of all, love of what you
@@ -69,21 +65,21 @@ export default class About extends Component {
             </div>
             </div>
             <div className="row row-pt-md">
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
-                <span className="icon">
-                    <i className="icon-bulb" />
-                </span>
-                <div className="desc">
-                    <h3>Machine Learning</h3>
-                    <p>
-                        I fell in love with developing Machine-Learing model.
-                        I have experiences in developing using libraries such as Tensorflow, Numpy, Pandas, Scikit-Learn, Matplotlib, Streamlit.
-                        My internship experiences have sparked my interest in creating real world applications using Machine-Learning.
-                    </p>
-                </div>
-                </div>
-            </div>
+            // <div className="col-md-4 text-center animate-box">
+            //     <div className="services color-1">
+            //     <span className="icon">
+            //         <i className="icon-bulb" />
+            //     </span>
+            //     <div className="desc">
+            //         <h3>Machine Learning</h3>
+            //         <p>
+            //             I fell in love with developing .
+            //             I have experiences in developing using libraries such as Tensorflow, Numpy, Pandas, Scikit-Learn, Matplotlib, Streamlit.
+            //             My internship experiences have sparked my interest in creating real world applications using Machine-Learning.
+            //         </p>
+            //     </div>
+            //     </div>
+            // </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
