@@ -88,8 +88,9 @@ export default class About extends Component {
                                 <div className="desc">
                                     <h3>Software Development</h3>
                                     <p>
-                                        Solving real world problems has always been an interest of mine. I love developing softwares that could contribute
-                                        to the community. I am aspired to learn Software development which would change the life of us.
+                                        My passion for technology lies in its potential to solve real-world problems and make a positive impact on communities. 
+                                        With my experience in Full Stack Development, I'm dedicated to developing innovative software solutions that drive positive change.
+                                        My goal is to leverage my technical expertise to create applications that enhance people's lives and contribute to a better future.
                                     </p>
                                 </div>
                             </div>
