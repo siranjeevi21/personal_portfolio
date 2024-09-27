@@ -42,7 +42,22 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
-                  
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Enkindle Technologies Private Limited<span> Mar 2022 - Sep 2024</span></h2>
+                        <p>
+                          As a full-stack developer, I successfully developed and deployed the Insolvency Case Management System (ICMS) and 
+                          eVoting applications using React, Material UI, Python, and AWS services. I contributed to maintaining high code quality through code 
+                          review and team collaboration, while demonstrating proficiency in React, Material UI, AWS, Python, and graph databases. My expertise in 
+                          these technologies allowed me to create robust and scalable web applications that met project requirements and were delivered on time.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
                 </div>
               </div>
             </div>
